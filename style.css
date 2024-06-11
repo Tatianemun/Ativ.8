@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+    font-size: 1.5em;
+}
